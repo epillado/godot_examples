@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsilhwbnfr5l3"
-path="res://.godot/imported/spinningGodot.icon.png-d8b1f4de709317964ce57b7c2cc22834.ctex"
+path="res://.godot/imported/spinningGodot.icon.png-e07252b7bd3206fa34cf5af40964eb22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://target/spinningGodot.icon.png"
-dest_files=["res://.godot/imported/spinningGodot.icon.png-d8b1f4de709317964ce57b7c2cc22834.ctex"]
+source_file="res://docs/spinningGodot.icon.png"
+dest_files=["res://.godot/imported/spinningGodot.icon.png-e07252b7bd3206fa34cf5af40964eb22.ctex"]
 
 [params]
 
